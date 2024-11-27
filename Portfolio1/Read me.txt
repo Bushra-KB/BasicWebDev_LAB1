@@ -1,0 +1,5 @@
+used only CSS and HTML
+No javascript, backend
+i used google fonts and Boxicons
+
+and it is not responsive 
